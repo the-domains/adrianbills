@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Adrian Bills's Portfolio]]></title>
         <description><![CDATA[Adrian Bills's Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adrianbills/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:22:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 02:22:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adrianbills/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test Post</p>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/adrianbills/test-post/index.html</link>
             <guid isPermaLink="false">e14e838c-04e2-4de3-ba13-99a53fe37e06</guid>
-            <pubDate>Thu, 28 Apr 2016 02:22:00 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 02:22:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
